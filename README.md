@@ -33,16 +33,19 @@ Random Forest Classifier, K Nearest Neighbor, Decision Tree, Support Vector Mach
 The data was divided into test data and train data as 20% and 80% respectively. The 
 models were trained on the training data. The models were then tested on test data and 
 were cross-validated.
-![image](https://user-images.githubusercontent.com/84454062/235827751-14f208b5-2bb0-48f1-9a2f-6268b5e0d1b7.png)
+
+<img src="https://user-images.githubusercontent.com/84454062/235827751-14f208b5-2bb0-48f1-9a2f-6268b5e0d1b7.png" width="60" height="40">
 
 Hyperparameter Tuning
-![image](https://user-images.githubusercontent.com/84454062/235827910-22679476-1f2b-4a3a-87f3-21c26adca3f5.png)
+
+<img src="https://user-images.githubusercontent.com/84454062/235827910-22679476-1f2b-4a3a-87f3-21c26adca3f5.png" width="60" height="40">
 
 Classification Report
-![image](https://user-images.githubusercontent.com/84454062/235828042-768fe9f3-456a-48e3-bda2-d0799316653d.png)
+
+<img src="https://user-images.githubusercontent.com/84454062/235828042-768fe9f3-456a-48e3-bda2-d0799316653d.png" width="60" height="40">
 
 Confusion Matrix
-![image](https://user-images.githubusercontent.com/84454062/235827992-0f10f90c-f373-4dd2-b157-555bb7ba4d96.png)
+<img src="https://user-images.githubusercontent.com/84454062/235827992-0f10f90c-f373-4dd2-b157-555bb7ba4d96.png" width="50" height="40">
 
 CONCLUSION 
 It can be concluded by using Random Forest Classifier algorithm and hyper-parameter 
